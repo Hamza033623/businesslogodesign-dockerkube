@@ -1,4 +1,4 @@
-name: SonarQube Analysis with Quality Gate
+name: SonarQube Analysis with Quality Gatee
 
 on:
   push:

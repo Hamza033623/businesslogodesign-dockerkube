@@ -1,6 +1,6 @@
 FROM php:8.3-apache
 
-# Install dependencies and common PHP extensions
+# Install dependencies and common PHP extensions cicd check
 RUN apt-get update && apt-get install -y \
     libzip-dev \
     zip \

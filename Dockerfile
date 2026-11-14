@@ -1,6 +1,6 @@
 FROM php:8.3-apache
 
-# dependencies and common PHP extensions cicd done
+# dependencies and common PHP extensions cicd done batch 11
 RUN apt-get update && apt-get install -y \
     libzip-dev \
     zip \
